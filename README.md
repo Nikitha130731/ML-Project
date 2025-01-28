@@ -1,1 +1,1 @@
-# end to End Ml project prectice
+# end to End Ml project practice
