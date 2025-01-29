@@ -62,3 +62,33 @@
 +defaults/osx-arm64::pyzmq-26.2.0-py311h313beb8_0
 +defaults/osx-arm64::tornado-6.4.2-py311h80987f9_0
 # update specs: ['ipykernel']
+==> 2025-01-29 14:02:57 <==
+# cmd: /opt/anaconda3/condabin/conda install -c conda-forge --prefix /Users/nikitha/Desktop/ML-Project/venv tensorboard -y
+# conda version: 24.5.0
++conda-forge/noarch::absl-py-2.1.0-pyhd8ed1ab_1
++conda-forge/noarch::markdown-3.6-pyhd8ed1ab_0
++conda-forge/noarch::markupsafe-3.0.2-pyhe1237c8_1
++conda-forge/noarch::tensorboard-2.18.0-pyhd8ed1ab_1
++conda-forge/noarch::werkzeug-3.1.3-pyhd8ed1ab_1
++conda-forge/osx-arm64::blas-2.128-openblas
++conda-forge/osx-arm64::blas-devel-3.9.0-28_h11c0a38_openblas
++conda-forge/osx-arm64::c-ares-1.34.4-h5505292_0
++conda-forge/osx-arm64::libabseil-20240116.2-cxx17_h00cdb27_1
++conda-forge/osx-arm64::libblas-3.9.0-28_h10e41b3_openblas
++conda-forge/osx-arm64::libcblas-3.9.0-28_hb3479ef_openblas
++conda-forge/osx-arm64::libgfortran-5.0.0-13_2_0_hd922786_3
++conda-forge/osx-arm64::libgfortran5-13.2.0-hf226fd6_3
++conda-forge/osx-arm64::liblapack-3.9.0-28_hc9a63f6_openblas
++conda-forge/osx-arm64::liblapacke-3.9.0-28_hbb7bcf8_openblas
++conda-forge/osx-arm64::libopenblas-0.3.28-openmp_hf332438_1
++conda-forge/osx-arm64::llvm-openmp-19.1.7-hdb05f8b_0
++conda-forge/osx-arm64::openblas-0.3.28-openmp_hea878ba_1
++conda-forge/osx-arm64::re2-2022.04.01-h6b3803e_0
++defaults/osx-arm64::grpcio-1.62.2-py311h313beb8_0
++defaults/osx-arm64::libgrpc-1.62.2-h62f6fdd_0
++defaults/osx-arm64::libprotobuf-4.25.3-h514c7bf_0
++defaults/osx-arm64::numpy-2.0.1-py311he598dae_1
++defaults/osx-arm64::numpy-base-2.0.1-py311hfbfe69c_1
++defaults/osx-arm64::protobuf-4.25.3-py311h1a06a43_1
++defaults/osx-arm64::tensorboard-data-server-0.7.0-py311ha6e5c4f_1
+# update specs: ['tensorboard']
